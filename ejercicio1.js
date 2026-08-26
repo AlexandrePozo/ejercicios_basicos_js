@@ -9,3 +9,5 @@ let suma = altura + longitud;
 console.log("Superhéroe:", miSuperheroeFavorito);
 console.log("Número favorito:", numeroFavorito);
 console.log("Altura:", altura);
+console.log("Longitud:", longitud);
+console.log("Suma:", suma);
